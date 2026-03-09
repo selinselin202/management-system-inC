@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "year": 1869,
+    "available": 1,
+    "borrowed_by": ""
+  },
+  {
+    "id": 2,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "year": 1866,
+    "available": 0,
+    "borrowed_by": "Alice Johnson"
+  },
+  {
+    "id": 3,
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "year": 1879,
+    "available": 1,
+    "borrowed_by": ""
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813,
+    "available": 1,
+    "borrowed_by": ""
+  },
+  {
+    "id": 5,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "available": 0,
+    "borrowed_by": "Robert Smith"
+  },
+  {
+    "id": 6,
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "available": 1,
+    "borrowed_by": ""
+  },
+  {
+    "id": 7,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "available": 1,
+    "borrowed_by": ""
+  },
+  {
+    "id": 8,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "year": 1951,
+    "available": 0,
+    "borrowed_by": "Emily Davis"
+  },
+  {
+    "id": 9,
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "year": 1851,
+    "available": 1,
+    "borrowed_by": ""
+  },
+  {
+    "id": 10,
+    "title": "Jane Eyre",
+    "author": "Charlotte Bronte",
+    "year": 1847,
+    "available": 1,
+    "borrowed_by": ""
+  }
+]
